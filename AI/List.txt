@@ -1,5 +1,4 @@
 Generative KI
-
 ChatGPT (OpenAI)
     NLP-Modell für Konversationen, Textgenerierung und Code.
 Claude (Anthropic)
@@ -12,7 +11,6 @@ MidJourney
     Hochqualitative KI-unterstützte Bildgenerierung, bekannt für künstlerische Ergebnisse.
 
 AI für Unternehmen
-
 IBM Watson
     Geschäftslösungen für Datenanalyse, NLP und maschinelles Lernen.
 Microsoft Azure AI
@@ -23,7 +21,6 @@ Amazon AWS AI Services
     Services wie Rekognition (Bild- und Videoanalyse) und Polly (Text-to-Speech).
 
 Maschinelles Lernen
-
 TensorFlow (Google)
     Open-Source-Framework für maschinelles Lernen und Deep Learning.
 PyTorch (Meta)
@@ -33,14 +30,12 @@ Hugging Face
 
 
 Kreatives Tool für Video- und Bildbearbeitung mithilfe von KI.
-
 DeepArt.io
     KI für Kunst und Stiltransfers in Bildern.
 DeepMind AlphaFold
     KI für Proteinfaltungsanalyse (wissenschaftliche Anwendung).
 
 AI für Sprachverarbeitung
-
 DeepL Translator
     KI-gestützter Übersetzer mit hoher Präzision.
 
@@ -50,7 +45,6 @@ Otter.ai
     KI für Spracherkennung und Transkription von Meetings und Interviews.
 
 Robotik und Automatisierung
-
 Boston Dynamics
     Führend in robotergestützter KI (z. B. Spot, Atlas).
 Tesla Autopilot
@@ -59,7 +53,6 @@ UiPath
     Robotic Process Automation (RPA) für Unternehmen.
 
 Spezialisierte KI-Lösungen
-
 OpenAI Codex
     KI für die Codegenerierung und Integration in Entwickler-Tools (z. B. GitHub Copilot).
 Replika AI
